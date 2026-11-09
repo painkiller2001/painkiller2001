@@ -48,5 +48,6 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 
 ### 📫 Connect with me
 
-* **Telegram:** [@IMMORTAL_COURAGE]
+* **Linkedin:** [Valery Fiadarenkou](https://www.linkedin.com/in/valery-fiadarenkou-730388221/)
+* **Telegram:** @IMMORTAL_COURAGE
 * **Email:** fff-fedorenkov@yandex.by
