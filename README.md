@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm painkiller2001
+# 👋 Hi there, I'm Valery
 
 Backend Developer focused on building fast, reliable, and well-structured web applications using Python ecosystem. I appreciate clean code, modern tooling, and automated testing. I am driven by continuous learning, constantly exploring new technologies to sharpen my skills and improve development workflows.
 
