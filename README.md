@@ -51,5 +51,5 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 
 ### 📫 Connect with me
 
-* **Telegram:** [@your_username]
-* **Email:** your_email@example.com
+* **Telegram:** [@IMMORTAL_COURAGE]
+* **Email:** fff-fedorenkov@yandex.by
