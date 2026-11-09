@@ -6,11 +6,12 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Core Frameworks -->
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Django](https://shields.io)
-![Flask](https://shields.io)
+<p>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Django" />
+  <img src="https://shields.io" alt="Flask" />
+</p>
 
 **Databases & ORM:**
 * PostgreSQL, Async SQLAlchemy, Alembic, Migrations
@@ -34,7 +35,7 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
   * **Stack:** Flask, PostgreSQL (Psycopg3), BeautifulSoup4, Requests.
   * **Features:** HTML parsing, URL validation, and persistent analysis history tracking.
 
-* **CRM API** — An asynchronous REST API for managing business workflows.
+* **Deals & Customers API** — An asynchronous REST API for managing business workflows.
   * **Stack:** FastAPI, Async SQLAlchemy, PostgreSQL, Alembic.
   * **Features:** Relational database design, asynchronous integration testing, and strict REST API conventions.
 
@@ -43,7 +44,7 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 ### 📈 GitHub Activity Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="painkiller2001's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
