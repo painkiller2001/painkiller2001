@@ -20,7 +20,7 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 * **Code Quality:** `Ruff` (Linter & Formatter)
 * **Testing:** `Pytest` (+ `pytest-django`, `pytest-asyncio`, `coverage`)
 * **Deployment & Monitoring:** Gunicorn, Whitenoise, Sentry
-* **Frontend Basics:** Tailwind CSS
+* **Frontend Basics:** Bootstrap, Tailwind CSS, HTML, CSS
 
 ---
 
@@ -42,9 +42,7 @@ Backend Developer focused on building fast, reliable, and well-structured web ap
 
 ### 📈 GitHub Activity Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=painkiller2001&theme=transparent&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
 ---
 
